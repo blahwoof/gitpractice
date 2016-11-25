@@ -1,1 +1,2 @@
 hmphf version 1 in the master branch
+added in master
